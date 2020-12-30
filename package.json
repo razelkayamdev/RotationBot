@@ -1,0 +1,17 @@
+{
+  "name": "rotation-bot",
+  "version": "0.0.1",
+  "description": "a bot to rotate randomly",
+  "main": "index.js",
+  "author": "Raz Elkayam",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "npm install && node index.js"
+  }
+}
